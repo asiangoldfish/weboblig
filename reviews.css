@@ -1,0 +1,28 @@
+body {
+    position: relative;
+}
+
+.reviews-row {
+    display: flex;
+}
+
+.post {
+    border-style: ridge;
+    border-width: 5px;
+    border-radius: 15px;
+
+    padding: 1em;
+
+    margin: 0px;
+}
+
+#reviews-container {
+    margin-bottom: 3em;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 80%;
+    margin-top: 2em;
+}
